@@ -71,3 +71,5 @@ https://s14.tntendirect.com/d17/live/playlist.m3u8
 https://s14.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" tvg-id="Cherie25.fr" group-title="France",Chérie 25
 https://s14.tntendirect.com/cherie25/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1249px-Logo-Gulli.svg.png?20110405202825" group-title="France",Gulli
+http://livetv.ktv.zone/20/play.m3u8
