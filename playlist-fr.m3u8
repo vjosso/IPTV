@@ -75,5 +75,5 @@ http://livetv.ktv.zone/20/play.m3u8
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-name="RMC Story" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/langfr-2880px-RMC_Story_logo_2018.svg.png" group-title="France",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
-#EXTINF:-1 tvg-name="Equidia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Equidia_logo_2018.svg/langfr-2880px-Equidia_logo_2018.svg.png" group-title="France",Equidia
-https://equidia-live2-p32-cdn.hexaglobe.net/d02385d73db4d549315c0ec2f9649a34/662bdac8/equidia/equidia-website-web-1/eqdlivepri_fre.smil/playlistfairplay.m3u8
+#EXTINF:-1 tvg-name="BFM Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BFM_Business_logo_2023.png" group-title="France",BFM Business
+https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/eu-central-1/876450612001/profile_0/ba431ad0342b4b9cbccb3dfd3b9fed79/chunklist_ssaiV.m3u8
