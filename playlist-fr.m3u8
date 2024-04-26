@@ -6,9 +6,9 @@ http://livetv.ktv.zone/10/play.m3u8
 ###https://www.dailymotion.com/video/x5gv5rr
 #EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
-https://www.dailymotion.com/video/xgepjr
-#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
+#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1200px-Logo_LCP-AN_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_Sénat_%282019%29.svg/1200px-Logo_Public_Sénat_%282019%29.svg.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
 http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-name="CNews Ⓓ" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews Ⓓ
 https://www.dailymotion.com/video/x3b68jn
