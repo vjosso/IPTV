@@ -73,3 +73,8 @@ https://s14.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 https://s14.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1249px-Logo-Gulli.svg.png?20110405202825" group-title="France",Gulli
 http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:-1 tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/2880px-6ter_2012.png" group-title="France",6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:-1 tvg-name="RMC Story" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/langfr-2880px-RMC_Story_logo_2018.svg.png" group-title="France",RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+
