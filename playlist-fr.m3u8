@@ -77,3 +77,7 @@ http://livetv.ktv.zone/24/play.m3u8
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:-1 tvg-name="BFM Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BFM_Business_logo_2023.png" group-title="France",BFM Business
 https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/eu-central-1/876450612001/profile_0/ba431ad0342b4b9cbccb3dfd3b9fed79/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-name="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/langfr-2880px-Logo_Canal%2B_1995.svg.png" group-title="France",Canal+
+https://www.dailymotion.com/video/x5gv6be
+
+
